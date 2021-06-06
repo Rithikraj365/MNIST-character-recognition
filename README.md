@@ -1,1 +1,1 @@
-# MNIT-character-recognition
+# MNIST-character-recognition
